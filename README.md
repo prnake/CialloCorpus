@@ -6,6 +6,10 @@
 
 Download: https://huggingface.co/datasets/Papersnake/people_daily_news
 
+### 数据范围
+
+1946-2023
+
 ### 数据来源
 
 - 1946-2003
@@ -20,3 +24,15 @@ Download: https://huggingface.co/datasets/Papersnake/people_daily_news
 - 最近2年
   - http://www.people.com.cn
 
+## 习近平系列重要讲话数据库
+
+Download: https://huggingface.co/datasets/Papersnake/xi_talk
+
+### 数据范围
+
+数据截止至 2023.4.23
+
+## 数据来源
+
+- http://jhsjk.people.cn/
+- https://github.com/abusetelegram/xixi-haha
