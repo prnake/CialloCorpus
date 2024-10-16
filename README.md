@@ -36,3 +36,15 @@ Download: https://huggingface.co/datasets/Papersnake/xi_talk
 
 - http://jhsjk.people.cn/
 - https://github.com/abusetelegram/xixi-haha
+
+## 古诗文
+
+Download: https://huggingface.co/datasets/Papersnake/gushiwen
+
+### 数据范围
+
+433841 条古诗文数据
+
+### 数据来源
+
+- https://www.gushiwen.cn
