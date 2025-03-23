@@ -8,7 +8,7 @@ Download: https://huggingface.co/datasets/Papersnake/people_daily_news
 
 ### 数据范围
 
-1946-2023
+1946-2024
 
 ### 数据来源
 
