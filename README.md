@@ -30,7 +30,7 @@ Download: https://huggingface.co/datasets/Papersnake/xi_talk
 
 ### 数据范围
 
-数据截止至 2023.4.23
+数据截止至 2025.3.23
 
 ## 数据来源
 
